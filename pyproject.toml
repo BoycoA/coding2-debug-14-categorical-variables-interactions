@@ -1,7 +1,7 @@
 [project]
 name = "coding2-debug-14-categorical-variables-interactions"
 version = "0.1.0"
-description = "Debugging practice repo for Coding 2: categorical variables and interactions"
+description = "Coding 2 Homework 3: the gender wage gap, dummy variables, and interactions"
 readme = "README.md"
 requires-python = ">=3.12,<3.13"
 dependencies = [
@@ -9,7 +9,6 @@ dependencies = [
     "matplotlib>=3.9.2",
     "numpy>=2.1.2",
     "pandas>=2.2.3",
-    "scikit-learn>=1.5.2",
     "seaborn>=0.13.2",
     "statsmodels>=0.14.4",
 ]
